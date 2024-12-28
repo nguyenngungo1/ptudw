@@ -30,7 +30,7 @@ __Update sau__
 >## Yêu cầu cài đặt
 __Update sau__
 >## Hướng dẫn cài đặt chương trình
-__Update sau__
+đọc file README.txt trong thư mục
 >## Tài liệu tham khảo
 __Update sau__
 
